@@ -1,0 +1,200 @@
+the lion roars in the savanna.
+a bird sings a sweet song.
+dogs run fast in the park.
+a cat sleeps on the soft bed.
+fish swim in the blue water.
+the elephant has a long trunk.
+a monkey climbs the tall tree.
+the wolf howls at the bright moon.
+a horse runs on the green grass.
+the bear eats fish from the river.
+a rabbit hops in the garden.
+the tiger has sharp teeth.
+a duck swims in the pond.
+the owl sees at night.
+a snake slides on the ground.
+the deer runs in the forest.
+a bee makes sweet honey.
+the fox is very clever.
+a butterfly flies over the flower.
+the cow gives fresh milk.
+a spider makes a web.
+the panda eats bamboo.
+a squirrel eats a nut.
+the goat climbs the hill.
+a frog jumps into the water.
+the kangaroo has a strong tail.
+a bat sleeps in the cave.
+the whale is a big animal.
+a penguin walks on ice.
+the zebra has black stripes.
+a ladybug has red wings.
+the camel lives in the desert.
+a seagull flies over the sea.
+the hippo stays in the water.
+a crow makes a loud noise.
+the ant carries a big leaf.
+a turkey has many feathers.
+the lizard sits on a rock.
+a dolphin jumps in the ocean.
+the eagle flies very high.
+a mouse eats a piece of cheese.
+the rhino has a strong horn.
+a parrot can say a word.
+the lobster lives in the ocean.
+a chicken lays a brown egg.
+the peacock has beautiful feathers.
+a wasp can give a sting.
+the shark swims in deep water.
+a goose flies in a line.
+the sheep eats green grass.
+the lion hunt in the grass and it rest under a tree.
+a bird fly in the sky but it feel tired soon.
+the fish swim in the river because the water is clean.
+the dog bark at the cat and the cat run away.
+a monkey climb a tree and it eat a banana.
+the elephant walk slowly but it is very strong.
+a horse run in the field because it is happy.
+the bear sleep in the cave and it dream of honey.
+a wolf howl at the moon but no one hear it.
+the rabbit hop in the garden and it eat a carrot.
+a tiger stalk its prey and it move very quiet.
+the deer jump over the fence because it see danger.
+a snake slide on the ground and it look for food.
+the owl hoot in the night but the mouse hide.
+a fox sneak into the farm and it take a chicken.
+the bee buzz near the flower and it collect nectar.
+a butterfly flutter its wings but it not make a sound.
+the squirrel store nuts in the tree because winter come.
+a penguin waddle on the ice and it slide on its belly.
+the giraffe reach for the leaves and it eat them.
+a zebra run with the herd and it stay with its family.
+the crocodile wait in the water because it is patient.
+a dolphin jump out of the sea and it play with a wave.
+the whale sing a deep song but we not understand it.
+a shark swim in the ocean and it is a good hunter.
+the kangaroo carry its baby and it hop very fast.
+a camel walk in the desert because it need water.
+the hippo stay in the river and it keep cool.
+a parrot copy what I say and it talk all day.
+the eagle soar in the sky but it have sharp eyes.
+a lizard sit on a rock and it enjoy the sun.
+the frog jump into the pond and it swim to a lily pad.
+a spider spin a web and it wait for a fly.
+the ant carry a big leaf and it work with its friends.
+a ladybug land on my hand but it not hurt me.
+the goat climb a steep hill and it find some grass.
+the pig roll in the mud because it like to be dirty.
+a sheep give us wool and it say baa all day.
+the cow eat fresh grass and it produce milk for us.
+a chicken lay an egg and it cluck very loud.
+the duck swim in the pond and it quack at its friend.
+a turkey gobble in the farm but it not see thanksgiving.
+the peacock show its feathers and it look very beautiful.
+a swan glide on the lake and it look very graceful.
+the pigeon fly in the city and it sit on a statue.
+a crow find a shiny thing and it take it to its nest.
+the octopus hide in a cave and it change its color.
+a starfish stick to a rock and it wait for the tide.
+the jellyfish float in the water and it pulse slowly.
+the seahorse hold with its tail and it drift in the current.
+a tall tree grow in the forest.
+red flowers bloom in spring.
+leaves fall from the oak.
+roots drink water from soil.
+I see a pine tree.
+the rose smell very sweet.
+sun help plants to grow.
+many trees lose leaves.
+a garden has colorful flowers.
+branches reach for the sky.
+grass grow under the tree.
+I'm near a big tree.
+birds nest in the tree.
+the daisy is white and yellow.
+rain water the plants.
+a bush has small flowers.
+the tree provide shade.
+bees like the flower nectar.
+wind blow through the leaves.
+a seed become a tree.
+the forest has many trees.
+I plant a flower seed.
+the stem support the flower.
+some trees have fruit.
+the lily live in water.
+tree bark protect the trunk.
+the tulip open in sun.
+soil contain nutrients for growth.
+a vine climb the wall.
+the tree stand straight.
+I'm happy to see flowers.
+the cactus need little water.
+leaves turn color in fall.
+the garden need more light.
+a willow tree bend low.
+the sunflower face the sun.
+moss grow on the tree.
+I pick a red rose.
+the tree has thick roots.
+flowers attract bees and butterflies.
+a palm tree love warm weather.
+the bud open to bloom.
+I water the plants daily.
+the tree survive in drought.
+the orchid is exotic.
+a maple tree has broad leaves.
+the pond reflect the trees.
+I'm under a cherry tree.
+the flower wilt without water.
+trees and flowers need care.
+the tree grow tall and strong, and it provide shade for the small flower.
+the root absorb water from the soil, but the leaf need sunlight for food.
+a red flower bloom in the spring, and it attract bee and butterfly.
+the branch sway in the wind, yet the bird build nest on it.
+the seed fall to the ground, and it wait for rain to grow.
+the rose have sharp thorn, but it smell very sweet and nice.
+the oak tree live for many year, and it witness season change.
+the daisy open at dawn, and it close at night for sleep.
+the forest have many tree, and they create home for animal.
+the stem support the flower, and it carry water to the petal.
+the pine tree keep its leaf in winter, so the forest stay green.
+the sun provide light for growth, and the rain provide water for life.
+the gardener plant new seed, and he hope for bright bloom.
+the willow tree bend near water, and its branch touch the river surface.
+the tulip come in many color, and people admire its simple beauty.
+the tree lose leaf in autumn, but new bud form in spring.
+the bee collect nectar from flower, and it help with pollination.
+the soil contain nutrient for root, so the plant grow healthy and strong.
+the orchid thrive in shade, and it display exotic and rare beauty.
+the wind scatter seed far away, and new plant grow in distant place.
+the maple tree have broad leaf, and its shade cool the grass below.
+the flower wilt without water, but it revive after good rain.
+the tree ring tell its age, and scientist study them for history.
+the vine climb up the wall, and it cover the stone with green.
+the sunflower face the sun, and it follow its path across the sky.
+the bark protect the tree trunk, and it shield from insect and disease.
+the lily float on water, and its petal reflect the morning light.
+the forest fire destroy many tree, yet new growth emerge from ash.
+the fruit tree bear apple and pear, and people enjoy their sweet taste.
+the cactus store water in stem, so it survive in dry desert.
+the moss grow on damp rock, and it add green to the forest floor.
+the tree provide oxygen for air, and human breathe it for life.
+the butterfly land on flower, and it rest its wing for a moment.
+the root spread deep and wide, and it anchor the tree in storm.
+the cherry blossom bloom briefly, but its beauty inspire poetry and art.
+the shade tree cool the house, and it reduce need for air condition.
+the hummingbird sip from flower, and its wing move very fast.
+the tree canopy block sunlight, so few plant grow below it.
+the daffodil signal spring arrival, and its yellow color cheer the garden.
+the tree wood make furniture, and people value its strength and grain.
+the rain nourish the earth, and the flower open to welcome it.
+the pine cone hold seed inside, and squirrel gather them for food.
+the garden have rose and lily, and their mix color please the eye.
+the tree stand alone in field, and it become landmark for traveler.
+the leaf change color in fall, and the ground cover with red and gold.
+the bee need flower for survive, and flower need bee for reproduce.
+the tree resist strong wind, but some branch break and fall.
+the lotus rise from muddy water, and it symbolize purity and grace.
+the forest support ecosystem, and many life depend on its resource.
+the flower bloom for a short time, yet its memory last in heart.
