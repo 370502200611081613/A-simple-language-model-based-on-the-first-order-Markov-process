@@ -6,7 +6,10 @@ markov_dict:  { 'word': [{ 'word':'word1', num : 1 }.....], ..... }
 
 import os
 import random
+import time
 
+#text_path = 'feed.txt'
+text_path = 'beatles.txt'
 markov_dicts = {'':[]}   # Start of Sentence
 sentence_sep = '.?!'    # 句子结束标志
 
@@ -55,16 +58,27 @@ def choose_word(list_):
             return item['word']
     return list_[-1]['word']
 
-def generate(num_sentences=1, word_limit=50):
+def generate(num_sentences=1,word_min=5, word_max=50, iterations=100):
     """ 根据前面调用parse得到的dict，随机生成多个句子"""
     ans = []
     for _ in range(num_sentences):
         sentence = ''
+        next_word=''
         last_word = ''
-        for _ in range(word_limit):
-            next_word = choose_word(markov_dicts[last_word])
+        for _ in range(word_max):
+            num = 0
+            cnt = 0
+            while num < word_min:
+                cnt += 1
+                if cnt > iterations:  # 防止死循环
+                    break
+                next_word = choose_word(markov_dicts[last_word])
+                if not is_end(next_word):
+                    break
+            
             sentence += next_word + ' '
             last_word = next_word
+            num += 1
             if is_end(next_word):
                 break
         ans.append(sentence.strip())
@@ -79,13 +93,23 @@ def input_text(_path_):
     return text
 
 def markov_main():
-    #text = input_text('beatles.txt')
-    text = input_text('feed.txt')
+    start_time = time.time()
+    text = input_text(text_path)
+    end_time = time.time()
     #text= 'X Y Z. X Z Y? Y X Z! Z Z Z. Y Z Y.'.strip().split()
+    print('读取文本用时: %.1f 毫秒' % (1000*(end_time - start_time)))
+    start_time = time.time()
     parse(text)
-    list_ = generate(100,100)
+    end_time = time.time()
+    print('分析文本用时: %.1f 毫秒，读取词数：%d' % (1000*(end_time - start_time), len(text)))
+    
+    n = 4
+    start_time = time.time()
+    list_ = generate(n,5,20,100)
+    end_time = time.time()
     for i in range(len(list_)):
         print(i+1,': ', list_[i])
+    print('生成%d条文本用时: %.1f 毫秒，平均用时%.2f毫秒' % (n,1000*(end_time - start_time), 1000*(end_time - start_time)/n))
 
 if __name__ == '__main__':
     markov_main()
