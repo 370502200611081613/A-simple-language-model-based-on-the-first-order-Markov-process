@@ -7,6 +7,7 @@ markov_dict:  { 'word': [{ 'word':'word1', num : 1 }.....], ..... }
 import os
 import random
 import time
+import sys
 
 #text_path = 'feed.txt'
 text_path = 'beatles.txt'
@@ -95,17 +96,17 @@ def input_text(_path_):
 def markov_main():
     start_time = time.time()
     text = input_text(text_path)
-    end_time = time.time()
     #text= 'X Y Z. X Z Y? Y X Z! Z Z Z. Y Z Y.'.strip().split()
+    end_time = time.time()
     print('读取文本用时: %.1f 毫秒' % (1000*(end_time - start_time)))
     start_time = time.time()
     parse(text)
     end_time = time.time()
     print('分析文本用时: %.1f 毫秒，读取词数：%d' % (1000*(end_time - start_time), len(text)))
-    
+    print('字典体积：%.1f kb' % (sys.getsizeof(markov_dicts)/1024))
     n = 4
     start_time = time.time()
-    list_ = generate(n,5,20,100)
+    list_ = generate(n,3,40,2)
     end_time = time.time()
     for i in range(len(list_)):
         print(i+1,': ', list_[i])
